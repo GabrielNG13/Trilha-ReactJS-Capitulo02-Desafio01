@@ -4,9 +4,9 @@ Projeto desenvolvido durante a realização do curso "Ignite > Trilhas React JS 
 
 A aplicação web desenvolvida se trata de um carrinho de compras, que conta com as seguintes páginas:
 - Home
-![image](https://user-images.githubusercontent.com/70169510/216194996-b97843e5-6154-4178-a65e-319a8d096a56.png)
+![image](https://user-images.githubusercontent.com/70169510/216789344-7cba9e66-616f-461f-8d49-bee6c2b7e1af.png)
 - Página de carrinho
-![image](https://user-images.githubusercontent.com/70169510/216195122-bf047fbe-cfd0-4a05-8921-8b8732b23b10.png)
+![image](https://user-images.githubusercontent.com/70169510/216789338-23b9d938-8c03-470d-8008-12f71d27cb53.png)
 
 Durante o desenvolvimento da aplicação, as principais funções desenvolvidas dentro do template foram:
 - Adicionar um novo produto ao carrinho
